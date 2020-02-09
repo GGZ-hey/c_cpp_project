@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\hy\documents\visual studio 2015\projects\生命游戏\生命游戏\源.cpp(66): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  生命游戏.vcxproj -> c:\users\hy\documents\visual studio 2015\Projects\生命游戏\Debug\生命游戏.exe
+  生命游戏.vcxproj -> c:\users\hy\documents\visual studio 2015\Projects\生命游戏\Debug\生命游戏.pdb (Full PDB)

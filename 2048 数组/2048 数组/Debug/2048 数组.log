@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\hy\documents\visual studio 2015\projects\2048 数组\2048 数组\源.cpp(308): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  2048 数组.vcxproj -> C:\Users\HY\Documents\Visual Studio 2015\Projects\2048 数组\Debug\2048 数组.exe
+  2048 数组.vcxproj -> C:\Users\HY\Documents\Visual Studio 2015\Projects\2048 数组\Debug\2048 数组.pdb (Full PDB)

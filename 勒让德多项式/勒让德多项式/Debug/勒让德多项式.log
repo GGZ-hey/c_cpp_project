@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\hy\documents\visual studio 2015\projects\勒让德多项式\勒让德多项式\源.cpp(14): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  勒让德多项式.vcxproj -> c:\users\hy\documents\visual studio 2015\Projects\勒让德多项式\Debug\勒让德多项式.exe
+  勒让德多项式.vcxproj -> c:\users\hy\documents\visual studio 2015\Projects\勒让德多项式\Debug\勒让德多项式.pdb (Full PDB)

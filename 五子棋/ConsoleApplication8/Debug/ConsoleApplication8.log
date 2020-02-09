@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\hy\documents\visual studio 2015\projects\五子棋\consoleapplication8\源.cpp(67): warning C4101: “winner”: 未引用的局部变量
+  ConsoleApplication8.vcxproj -> C:\Users\HY\Documents\Visual Studio 2015\Projects\五子棋\Debug\ConsoleApplication8.exe
+  ConsoleApplication8.vcxproj -> C:\Users\HY\Documents\Visual Studio 2015\Projects\五子棋\Debug\ConsoleApplication8.pdb (Full PDB)

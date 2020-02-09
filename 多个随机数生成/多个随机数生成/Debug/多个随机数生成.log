@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\hy\documents\visual studio 2015\projects\多个随机数生成\多个随机数生成\源.cpp(9): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  多个随机数生成.vcxproj -> c:\users\hy\documents\visual studio 2015\Projects\多个随机数生成\Debug\多个随机数生成.exe
+  多个随机数生成.vcxproj -> c:\users\hy\documents\visual studio 2015\Projects\多个随机数生成\Debug\多个随机数生成.pdb (Full PDB)

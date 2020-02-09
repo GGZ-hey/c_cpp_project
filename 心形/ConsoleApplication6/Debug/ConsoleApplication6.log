@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\hy\documents\visual studio 2015\projects\consoleapplication6\consoleapplication6\源.cpp(48): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+  ConsoleApplication6.vcxproj -> c:\users\hy\documents\visual studio 2015\Projects\ConsoleApplication6\Debug\ConsoleApplication6.exe
+  ConsoleApplication6.vcxproj -> c:\users\hy\documents\visual studio 2015\Projects\ConsoleApplication6\Debug\ConsoleApplication6.pdb (Full PDB)

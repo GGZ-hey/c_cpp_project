@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\hy\documents\visual studio 2015\projects\2048\consoleapplication2\源.cpp(438): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\hy\documents\visual studio 2015\projects\2048\consoleapplication2\源.cpp(462): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  ConsoleApplication2.vcxproj -> C:\Users\HY\Documents\Visual Studio 2015\Projects\2048\Debug\ConsoleApplication2.exe

@@ -1,0 +1,4 @@
+﻿  源.cpp
+f:\c_cpp_project\俄罗斯方块\eluosi\eluosi\源.cpp(201): warning C4326: “main”的返回类型应为“int”而非“void”
+f:\c_cpp_project\俄罗斯方块\eluosi\eluosi\源.cpp(205): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  ELUOSI.vcxproj -> F:\c_cpp_project\俄罗斯方块\ELUOSI\Debug\ELUOSI.exe

@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\hy\documents\visual studio 2015\projects\雪花\雪花\源.cpp(12): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\hy\documents\visual studio 2015\projects\雪花\雪花\源.cpp(31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  雪花.vcxproj -> c:\users\hy\documents\visual studio 2015\Projects\雪花\Debug\雪花.exe
+  雪花.vcxproj -> c:\users\hy\documents\visual studio 2015\Projects\雪花\Debug\雪花.pdb (Full PDB)

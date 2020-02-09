@@ -1,0 +1,6 @@
+﻿  源.cpp
+c:\users\hy\documents\visual studio 2015\projects\贪婪算法+冒泡排序\贪婪算法+冒泡排序\源.cpp(18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\hy\documents\visual studio 2015\projects\贪婪算法+冒泡排序\贪婪算法+冒泡排序\源.cpp(34): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+c:\users\hy\documents\visual studio 2015\projects\贪婪算法+冒泡排序\贪婪算法+冒泡排序\源.cpp(41): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  贪婪算法+冒泡排序.vcxproj -> c:\users\hy\documents\visual studio 2015\Projects\贪婪算法+冒泡排序\Debug\贪婪算法+冒泡排序.exe
+  贪婪算法+冒泡排序.vcxproj -> c:\users\hy\documents\visual studio 2015\Projects\贪婪算法+冒泡排序\Debug\贪婪算法+冒泡排序.pdb (Full PDB)

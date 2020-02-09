@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\hy\documents\visual studio 2015\projects\井字棋游戏\井字棋游戏\源.cpp(142): warning C4715: “Opponent”: 不是所有的控件路径都返回值
+c:\users\hy\documents\visual studio 2015\projects\井字棋游戏\井字棋游戏\源.cpp(198): warning C4715: “Playermark”: 不是所有的控件路径都返回值
+  井字棋游戏.vcxproj -> C:\Users\HY\Documents\Visual Studio 2015\Projects\井字棋游戏\Debug\井字棋游戏.exe
